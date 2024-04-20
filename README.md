@@ -8,4 +8,4 @@ Al abordar este desafío, no solo estamos aplicando herramientas y técnicas ava
 
 En este notebook, guiaremos paso a paso el proceso de análisis de datos, exploración de características, construcción de modelos predictivos y evaluación del rendimiento del modelo. Al final, esperamos no solo lograr una clasificación precisa de las bombas de agua, sino también proporcionar ideas valiosas para informar las decisiones de política y las acciones de mantenimiento que pueden mejorar el acceso al agua potable en Tanzania y más allá.
 
-Fuentes: [https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/) https://taarifa.org/ - https://www.maji.go.tz/
+Fuentes: [https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/) - https://taarifa.org/ - https://www.maji.go.tz/
